@@ -1,0 +1,16 @@
+✅ Cloud Storage Setup Report (Task 1)
+
+Platform Used: AWS S3
+
+Steps Performed:
+1. Created an S3 bucket named `btech-cse-richa`.
+2. Uploaded sample files including a image.
+3. Configured public access for one file and accessed it using the public S3 URL.
+4. Verified the file's availability in the browser and understood permission settings.
+
+Learnings:
+- Understood how cloud object storage works on AWS.
+- Practiced managing access permissions (public/private).
+- Learned to navigate the AWS Console and manage S3 buckets.
+
+Screenshots: ✅ Attached
